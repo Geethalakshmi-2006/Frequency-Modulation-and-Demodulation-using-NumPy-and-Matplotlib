@@ -70,4 +70,5 @@ xgrid();
  <img width="692" height="576" alt="image" src="https://github.com/user-attachments/assets/bb0c7e16-ef07-4007-a6a9-2495b1cd7d4b" />
   
 ### RESULT
-The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
+The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. 
+The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
